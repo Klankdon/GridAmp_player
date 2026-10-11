@@ -17,8 +17,8 @@ Copy and paste this `<iframe>` snippet directly into your website, blog, or Sta.
   allow="autoplay; encrypted-media" 
   style="border-radius: 16px; border: none; overflow: hidden;">
 </iframe>
----
-🎨 Dynamic URL Query Skinning
+-----
+##🎨 Dynamic URL Query Skinning
 You can customize the player appearance and initial audio stream directly through URL query parameters without modifying any code:
 
 HTML
@@ -31,7 +31,9 @@ HTML
   allow="autoplay; encrypted-media" 
   style="border-radius: 16px; border: none;">
 </iframe>
-URL Parameters:
+
+-----
+##URL Parameters:
 theme: Palette preset (outrun, obsidian, gold, matrix)
 
 bg: Direct image URL (JPG/PNG/GIF) to wrap onto the chassis
